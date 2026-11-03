@@ -22,6 +22,7 @@ h1, h2, h3, p, label {
 """, unsafe_allow_html=True)
 
 st.title("🧪 Chemistry Virtual Lab")
+st.markdown("**Created by M NITEESH**")
 st.write("An interactive 2D learning experience for chemistry students.")
 
 st.sidebar.title("Laboratory Menu")
